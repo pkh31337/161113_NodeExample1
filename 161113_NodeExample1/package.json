@@ -1,0 +1,9 @@
+{
+  "name": "161113_node-example1",
+  "version": "0.0.0",
+  "description": "161113_NodeExample1",
+  "main": "server.js",
+  "author": {
+    "name": "zbpc"
+  }
+}
