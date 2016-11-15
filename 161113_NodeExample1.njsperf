@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>b848fca9-b6d3-412b-b8d9-1680a2db77e6</TargetProject>
+    <FriendlyName>161113_NodeExample1</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>c:\users\zbpc\documents\visual studio 2015\Projects\161113_NodeExample1\161113_NodeExample1_20161113.vspx</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
